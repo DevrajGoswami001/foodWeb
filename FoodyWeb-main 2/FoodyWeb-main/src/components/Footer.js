@@ -15,12 +15,10 @@ export default function Footer() {
                         <h5 className="fw-bold">Follow Us</h5>
                         <br/>
                         <ul className="list-inline social-icons">
-                            
-                            <li className="list-inline-item"><a href="https://x.com/paddy3003?t=jV5QNUif9RqNq-dhcj17VQ&s=09" target="_blank" className="text-white btn btn-floating rounded-circle m-1" style={{ backgroundColor: '#55acee' }} role="button"><i className="fab fa-twitter"></i></a></li>
-                            <li className="list-inline-item"><a href="https://www.instagram.com/singh_prashant_30?igsh=M2Zod2ZvZ2J0YWVt" target="_blank" className="text-white btn btn-floating rounded-circle m-1" style={{ backgroundColor: '#ac2bac' }} role="button"><i className="fab fa-instagram"></i></a></li>
-                            <li className="list-inline-item"><a href="https://www.linkedin.com/in/prashant-singh-a55110241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" className="text-white btn btn-floating rounded-circle m-1" style={{ backgroundColor: '#0082ca' }} role="button"><i className="fab fa-linkedin-in"></i></a></li>
-                            <li className="list-inline-item"><a href="https://github.com/prashantsingh30" className="text-white btn btn-floating rounded-circle m-1" target="_blank" style={{ backgroundColor: '#333333' }} role="button"><i className="fab fa-github"></i></a></li>
-                            <li className="list-inline-item"><a href="mailto:singhprashantsuresh@gmail.com" className="text-white btn btn-floating rounded-circle m-1" target="_blank" style={{ backgroundColor: '#dd4b39' }} role="button"><i className="fas fa-envelope"></i></a></li>
+                            <li className="list-inline-item"><a href="https://www.instagram.com/invites/contact/?igsh=1bp43ciwhtr3j&utm_content=ni0sqxl" target="_blank" className="text-white btn btn-floating rounded-circle m-1" style={{ backgroundColor: '#ac2bac' }} role="button"><i className="fab fa-instagram"></i></a></li>
+                            <li className="list-inline-item"><a href="https://www.linkedin.com/in/devraj-goswami-20244629b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" className="text-white btn btn-floating rounded-circle m-1" style={{ backgroundColor: '#0082ca' }} role="button"><i className="fab fa-linkedin-in"></i></a></li>
+                            <li className="list-inline-item"><a href="https://github.com/DevrajGoswami001" className="text-white btn btn-floating rounded-circle m-1" target="_blank" style={{ backgroundColor: '#333333' }} role="button"><i className="fab fa-github"></i></a></li>
+                            <li className="list-inline-item"><a href="mailto:devrajgoswami001@gmail.com" className="text-white btn btn-floating rounded-circle m-1" target="_blank" style={{ backgroundColor: '#dd4b39' }} role="button"><i className="fas fa-envelope"></i></a></li>
                         </ul>
                     </div>
                     <div className="col-md-4">
